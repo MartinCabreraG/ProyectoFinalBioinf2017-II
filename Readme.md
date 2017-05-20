@@ -25,5 +25,6 @@ La carpeta principal "ProyectoFinal-MartínCabrera", contiene las siguientes sub
 4. *AdvancedAnalysis**. Script que permite hacer cálculos sobre la estructura genética de las poblaciones (Gst, distancias genéticas), desequilibrio de ligamiento y análisis discriminante de componentes principales (DAPC).
 
 **OUT**
+
 Contiene los resultados obtenidos de los análisis, organizados por etapas en forma de tablas y gráficos.
 Por ejemplo, los obtenidos con el script "FirstAnalysis.R": [curva de acumulación de genotipos](https://raw.githubusercontent.com/MartinCabreraG/ProyectoFinalBioinf2017-II/master/gaccEptpop.png), [datos faltantes](https://raw.githubusercontent.com/MartinCabreraG/ProyectoFinalBioinf2017-II/master/missdEptpop.png), [genotipos multilocus observados](https://raw.githubusercontent.com/MartinCabreraG/ProyectoFinalBioinf2017-II/master/mlgEptpop.png)
