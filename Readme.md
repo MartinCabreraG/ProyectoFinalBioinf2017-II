@@ -11,6 +11,7 @@ Moussy C, Atterby H, Griffiths AGF, Allnut TR, Mathews F, Smith GC, Aegerter JN,
 
 
 **Organización del proyecto**
+
 La carpeta principal "ProyectoFinal-MartínCabrera", contiene las siguientes subcarpetas:
 
 **DATA**
