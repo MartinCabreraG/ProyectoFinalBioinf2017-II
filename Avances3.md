@@ -8,7 +8,8 @@ He logrado armar parte de los scripts que menciono en el Readme y los resultados
 Todo lo consultado en los manuales y libros ha sido de gran ayuda.
 
 **Readme**
-Enalce, dar clic [aquí].(https://github.com/MartinCabreraG/ProyectoFinalBioinf2017-II/blob/master/Readme.md)
+
+Enalce, [aquí].(https://github.com/MartinCabreraG/ProyectoFinalBioinf2017-II/blob/master/Readme.md)
 
 **Manuales y sitios web sobre Genética de Poblaciones con R explorados:**
 * Population Genetics in R (http://popgen.nescent.org/)
