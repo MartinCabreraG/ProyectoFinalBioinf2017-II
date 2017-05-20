@@ -1,4 +1,4 @@
-##README
+## README
 
 Esta carpeta contiene los archivos e información necesaria para analizar la estructura y diversidad genética de las poblaciones europeas del murciélago *Eptesicus serotinus*.
 
