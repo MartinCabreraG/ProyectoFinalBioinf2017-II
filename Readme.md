@@ -21,8 +21,8 @@ La carpeta principal "ProyectoFinal-MartínCabrera", contiene las siguientes sub
 **BIN**
 1. **DownloadBase**. Script para descargar la base de datos original del repositorio de Dryad.
 2. **FirstAnalysis**. Script para tener un primer acercamiento con los datos. Evalúa la cantidad de datos obtenidos y faltantes. Calcula la diversidad genotípica y las frecuencias alélicas observadas en las poblaciones por loci.
-3. **BasicStatistics**. Script que calcula estadísticos genéticos básicos, como heterocigosis, pruebas de equilibrio de Hardy-Weinberg, polimorfimo, riqueza genotípica. 
-4. *AdvancedAnalysis**. Script que permite hacer cálculos sobre la estructura genética de las poblaciones (Gst, distancias genéticas), desequilibrio de ligamiento y análisis discriminante de componentes principales (DAPC).
+3. **BasicStatistics**. Script que calcula estadísticos genéticos básicos, como heterocigosis, pruebas de equilibrio de Hardy-Weinberg, polimorfismos, riqueza genotípica. 
+4. **AdvancedAnalysis**. Script que permite hacer cálculos sobre la estructura genética de las poblaciones (Gst, distancias genéticas), desequilibrio de ligamiento y análisis discriminante de componentes principales (DAPC).
 
 **OUT**
 
