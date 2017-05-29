@@ -39,6 +39,7 @@ Moussy et al. (2015) hacen pruebas con diferentes tamaños de K (clusters) y ven
 Mapa geográfico con la propoción de mezcla poblacional
 ![Europa](out/results5/Mapadmixall.png)
 Zoom de [Reino Unido](out/results5/MapadmixUK.png)
+
 [Ancestría](out/results5/Mapancestry.png) de las poblaciones
 
 Entre los resultados más interesantes están que no parece haber una subestrcuturación genética en el continente a pesar de cubrir una gran extensión de área, en comparación con el Reino Unido.
