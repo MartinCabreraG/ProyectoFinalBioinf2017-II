@@ -1,6 +1,6 @@
 **Resumen de análisis y resultados**
 
-### Population genetic structure of serotine bats (*Eptesicus serotinus*) across Europe
+# Population genetic structure of serotine bats (*Eptesicus serotinus*) across Europe
 
 ![data/eptesicus-serotinus.jpg](data/eptesicus-serotinus.jpg)
 
