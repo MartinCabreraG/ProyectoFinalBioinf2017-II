@@ -17,11 +17,11 @@ Los valores calculados de diversidad, heterocigosidad esperada y observada son r
 
 Las pruebas de Hardy-Weinberg para cada loci de cada población fueron ploteados para su mejor apreciación.
 
-![out/results2/heatmapHWE.jpg](out/results2/heatmapHWE.jpg)
+![out/results2/heatmapHWE.jpg](out/results2/heatmapHWE.png)
 
 Los loci mostrados en rosa son aquellos que suponen no estar en equilibrio de H-W (p=< 0.05)
 
-## Deseuilibrio de Ligamiento
+## Desequilibrio de Ligamiento
 
 
 
