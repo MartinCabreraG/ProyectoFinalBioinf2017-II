@@ -1,0 +1,5 @@
+"Sigma" "%"
+"Variations  Between Pop  " 0.115988847864915 4.74232798274977
+"Variations  Between samples Within Pop" 0.0723208828524387 2.95691657259775
+"Variations  Within samples" 2.25751114643043 92.3007554446525
+"Total variations" 2.44582087714779 100

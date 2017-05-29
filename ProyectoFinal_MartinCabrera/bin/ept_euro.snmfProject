@@ -1,0 +1,12 @@
+new("snmfProject"
+    , snmfProject.file = "ept_euro.snmfProject"
+    , projDir = "C:/Users/bmw_m/Desktop/ProyectoFinal_MartinCabrera/bin/"
+    , snmfDir = "ept_euro.snmf/"
+    , input.file = "ept_euro.geno"
+    , runs = list()
+    , K = 4L
+    , snmfClass.files = "K4/run1/ept_euro_r1.4.snmfClass"
+    , n = 699L
+    , L = 96L
+    , creationTime = structure(1496040537.7475, class = c("POSIXct", "POSIXt"))
+)
