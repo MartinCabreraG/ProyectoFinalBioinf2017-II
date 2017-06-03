@@ -11,7 +11,7 @@ Moussy C, Atterby H, Griffiths AGF, Allnut TR, Mathews F, Smith GC, Aegerter JN,
 ### Descripción y objetivo
 
 En este proyecto, a partir de la base de datos original de Moussy et al. (2015), se replican algunos de los análisis producidos por los autores. De igual forma se implementan otros análisis no usados por ellos con el fin de abundar en el estudio de la genética de poblaciones de *Eptesicus serotinus*.
-Al final, es posible comparar los resultados obtenidos con los publicados y sustentar las observaciones empleando las herramientas computacionales aprendidas en clase y el uso de software especializado.
+Al final, es posible comparar los resultados obtenidos con los publicados y sustentar las observaciones empleando herramientas computacionales y el uso de software especializado.
 
 ### Organización del proyecto
 
