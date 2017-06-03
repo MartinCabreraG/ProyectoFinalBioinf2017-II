@@ -34,7 +34,7 @@ El análsis de discriminantes de componentes principales puede ser usado para in
 
 ## Estructura genética
 
-Moussy et al. (2015) hacen pruebas con diferentes tamaños de K (clusters) y ven que cuando toma valores de tres y cuatro es cuando se comporta mejor con el conjunto de datos. Los tres grupos que revelan una estructura, significativa son las poblaciones de Europa continental, el este de Reino Unido y el oeste de este mismo país. Cuando se consideran cuatro agrupaciones, se incluyen en éstas a las poblaciones de la isla de Wigth (IOW). Tomando en cuenta lo anterior, los análisis se hicieron con K= 4 y se generó una representación en [barplot](out/results5/Barplot.png) de los coeficientes de mezcla.
+Moussy et al. (2015) hacen pruebas con diferentes tamaños de K (clusters) y ven que cuando toma valores de tres y cuatro es cuando se comporta mejor con el conjunto de datos. Los tres grupos que revelan una estructura significativa, son las poblaciones de Europa continental, el este de Reino Unido y el oeste de este mismo país. Cuando se consideran cuatro agrupaciones, se incluyen en éstas a las poblaciones de la isla de Wigth (IOW). Tomando en cuenta lo anterior, los análisis se hicieron con K= 4 y se generó una representación en [barplot](out/results5/Barplot.png) de los coeficientes de mezcla.
 
 Mapa geográfico con la propoción de mezcla poblacional
 ![Europa](out/results5/Mapadmixall.png)
@@ -42,21 +42,8 @@ Zoom de [Reino Unido](out/results5/MapadmixUK.png)
 
 [Ancestría](out/results5/Mapancestry.png) de las poblaciones
 
-Entre los resultados más interesantes están que no parece haber una subestrcuturación genética en el continente a pesar de cubrir una gran extensión de área, en comparación con el Reino Unido.
-Se reconocen cuatro poblaciones genéticas.
-En Inglaterra el índice de fijación es más alto que en el continente, aunque el Canal Inglés parece no jugar un papel muy importante como barrera física.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Entre las aportaciones más interesantes de este trabajo se destacan: 
+- No existe una aparente subestrcuturación genética en el continente europeo a pesar de cubrir una gran extensión de área, en comparación con el Reino Unido que sí la presenta.
+- Se reconocen cuatro poblaciones genéticas (Europa continental, el este y oeste de Reino Unido, y la isla de Wigth).
+- En Inglaterra el índice de fijación es más alto que en el continente.
+- El Canal Inglés parece no jugar un papel muy importante como barrera física.
