@@ -52,4 +52,4 @@ Contiene los resultados obtenidos de los análisis en forma de tablas y gráfico
 - El archivo Resumen.md puede ser abierto y revisado al mismo tiempo que se decida correr los scripts.
 - Cuando leas el Resumen, da clic en los enlaces que encuentres para ver algunos gráficos.
 
-Ir al archivo de [Resumen](/Resumen.md)
+Ir al archivo de [**Resumen**](Resumen.md)
