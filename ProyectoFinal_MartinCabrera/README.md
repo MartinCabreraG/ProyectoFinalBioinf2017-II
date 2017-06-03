@@ -51,3 +51,5 @@ Contiene los resultados obtenidos de los análisis en forma de tablas y gráfico
 - El mejor orden para correr los scripts es el presentado arriba en la descripción del contenido de la carpeta 'bin'. Pueden ser corridos independientemente, pero es un orden recomendado.
 - El archivo Resumen.md puede ser abierto y revisado al mismo tiempo que se decida correr los scripts.
 - Cuando leas el Resumen, da clic en los enlaces que encuentres para ver algunos gráficos.
+
+Ir al archivo de [Resumen](/Resumen.md)
